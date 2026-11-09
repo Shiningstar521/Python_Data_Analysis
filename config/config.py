@@ -21,6 +21,9 @@ CLEAN_DATA_FILE = PROCESSED_DATA_DIR / "clean_transactions.csv"
 # 图表输出目录
 FIGURE_DIR = BASE_DIR / "output" / "figures"
 
+# 报告输出目录
+REPORT_DIR = BASE_DIR / "output" / "reports"
+
 # 图表参数
 FIGURE_SIZE = (12, 6)
 FIGURE_DPI = 300
